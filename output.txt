@@ -1,0 +1,5 @@
+There are a total of 86 number of months included in this dataset.
+Your net profit/losses is 38382578.
+The average change was -2315.1176470588234.
+Greatest decrease in profits: -2196167 $-2196167)
+Greatest increase in profits: Dec-2011 $1926159)
